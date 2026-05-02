@@ -1,6 +1,7 @@
 import random
 random_integer=random.randint(1,10)
 print(random_integer)
+
 #random values from 0 to 1(float values btw 0 and 1)
 random_num_0_to_1= random.random()
 print(random_num_0_to_1)
